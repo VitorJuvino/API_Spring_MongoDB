@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "654d5578f9f055608185c02f"
+  },
+  "titulo": "Um dia",
+  "autor": "David Nicholls",
+  "ano_publi": "2009",
+  "genero": "Romance",
+  "_class": "com.biblioteca.atividade_bd.Livros"
+},
+{
+  "_id": {
+    "$oid": "654d55dbf9f055608185c030"
+  },
+  "titulo": "Como Eu Era Antes de Você",
+  "autor": "Jojo Moyes",
+  "ano_publi": "2012",
+  "genero": "Romance",
+  "_class": "com.biblioteca.atividade_bd.Livros"
+},
+{
+  "_id": {
+    "$oid": "654d5621f9f055608185c031"
+  },
+  "titulo": "Diário de Uma Paixão",
+  "autor": "Nicholas Sparks",
+  "ano_publi": "1996",
+  "genero": "Romance",
+  "_class": "com.biblioteca.atividade_bd.Livros"
+},
+{
+  "_id": {
+    "$oid": "654d5723f9f055608185c032"
+  },
+  "titulo": "Frankenstein",
+  "autor": "Mary Shelley",
+  "ano_publi": "1818",
+  "genero": "ficção",
+  "_class": "com.biblioteca.atividade_bd.Livros"
+},
+{
+  "_id": {
+    "$oid": "654d57a2f9f055608185c033"
+  },
+  "titulo": "Admirável mundo novo",
+  "autor": "Aldous Huxley",
+  "ano_publi": "1990",
+  "genero": "ficção",
+  "_class": "com.biblioteca.atividade_bd.models.Livros"
+},
+{
+  "_id": {
+    "$oid": "654d581ff9f055608185c034"
+  },
+  "titulo": "A Guerra dos Mundos",
+  "autor": "H.G. Wells",
+  "ano_publi": "1898",
+  "genero": "ficção",
+  "_class": "com.biblioteca.atividade_bd.Livros"
+}]
